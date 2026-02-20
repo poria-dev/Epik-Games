@@ -10,7 +10,7 @@
     Where real gamers come to flex, analyze, and relive legendary moments.
   </p>
 
-  <img src="screen1" alt="Epic PS5 Gameplay Moment" width="800"/>
+  <img src="screen1.png" alt="Epic PS5 Gameplay Moment" width="800"/>
   <br><br>
 
   <!-- LIVE DEMO SECTION -->
@@ -44,12 +44,12 @@
 
 <table>
   <tr>
-    <td><img src="screen1" alt="Ghost of Tsushima" width="400"/></td>
-    <td><img src="screen2" alt="God of War Ragnarök" width="400"/></td>
+    <td><img src="screen1.png" alt="Ghost of Tsushima" width="400"/></td>
+    <td><img src="screen2.png" alt="God of War Ragnarök" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="screen3" alt="Astro Bot" width="400"/></td>
-    <td><img src="screen4" alt="Elden Ring" width="400"/></td>
+    <td><img src="screen3.png" alt="Astro Bot" width="400"/></td>
+    <td><img src="screen4.png" alt="Elden Ring" width="400"/></td>
   </tr>
 </table>
 
