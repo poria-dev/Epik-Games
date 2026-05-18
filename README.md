@@ -7,7 +7,7 @@
   <h1>PS5 Game Vault 🎮⚡</h1>
   <p>
     <strong>The ultimate showcase of next-gen PS5 masterpieces — 4K screenshots, epic moments, hidden details, and pure gaming glory.</strong><br>
-    Where real gamers come to flex, analyze, and relive legendary moments.
+    Where real gamers come to flex, analyze, and relive legendary moments..
   </p>
 
   <img src="screen1.png" alt="Epic PS5 Gameplay Moment" width="800"/>
