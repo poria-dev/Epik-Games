@@ -13,7 +13,7 @@
   <img src="screen1.png" alt="Epic PS5 Gameplay Moment" width="800"/>
   <br><br>
 
-  <!-- LIVE DEMO SECTION -->
+  <!-- LIVE DEMO SECTION important-->
   <h2>🔥 Live Demo – Check it out now!</h2>
   <p>
     Browse the full interactive gallery, zoomable 4K shots, and game highlights right here:
